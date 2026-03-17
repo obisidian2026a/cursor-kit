@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Imran Bin Hasan",
+  title: "CursorKit",
   description: "Hello world",
 };
 
